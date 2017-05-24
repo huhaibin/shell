@@ -13,6 +13,7 @@ php
 php-fpm
 composer # php包管理器
 redis
+docker
 )
 
 # 拼接常用软件命令
