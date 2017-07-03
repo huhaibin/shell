@@ -16,7 +16,7 @@ echo "Linux系统信息："
 lsb_release -a
 
 echo "系统开放端口信息："
-netstat -lnp
+netstat -tunlp
 
 echo "系统网络接口："
 netstat -ie
