@@ -10,6 +10,7 @@ bash-completion # bash命令参数自动补全，CentOS7新版不会自动安装
 gcc
 g++
 net-tools # 包含基本的网络工具包，ifconfig, netstat等
+redhat-lsb # 系统版本信息查看工具
 )
 
 # 拼接常用软件命令
