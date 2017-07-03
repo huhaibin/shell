@@ -9,6 +9,7 @@ wget
 bash-completion # bash命令参数自动补全，CentOS7新版不会自动安装此工具包
 gcc
 g++
+net-tools # 包含基本的网络工具包，ifconfig, netstat等
 )
 
 # 拼接常用软件命令
