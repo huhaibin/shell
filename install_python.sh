@@ -2,7 +2,7 @@
 
 # 配置要安装的常用软件
 softwareName=(# =两边不能有空格
-python-deve # python开发环境
+python-dev # python开发环境
 )
 
 # 拼接常用软件命令
